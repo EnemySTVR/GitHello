@@ -11,6 +11,7 @@ namespace GitHello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, GitHub!");
+            Console.WriteLine("Внесены изменения!");
             Console.ReadLine();
         }
     }
