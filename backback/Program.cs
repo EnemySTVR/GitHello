@@ -6,9 +6,6 @@ namespace backback
     {
         static void Main(string[] args)
         {
-            // This is change.
-            int change = 0;
-
             Console.WriteLine("Hello World!");
         }
     }
